@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} {{ article.title }} {% endblock %}
+
+{% block body %}
+    <h1>Article number {{ article.id }} </h1>
+    <br/>
+    <p>{{ article.body }}</p>
+
+    <a href="/" class="btn btn-success">Back</a>
+
+{% endblock %}

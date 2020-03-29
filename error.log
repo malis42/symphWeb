@@ -1,0 +1,1 @@
+[Sun Mar 29 14:40:42.210038 2020] [php7:notice] [pid 5311] [client 127.0.0.1:35618] 2020-03-29T14:40:42+02:00 [critical] Uncaught Error: syntax error, unexpected ')', expecting ']', referer: http://symphweb.localdev/
